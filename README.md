@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I'm Ishika Joshi, pursuing an undergraduate degree at Acropolis Institute of Technology and Research and majoring in Computer Science Engineering with Information Technology.<br>🔭 I’m currently working on an Edtech web development project.<br>🌱 I'm in my third year currently and I have a strong academic record with 7.72 CGPA.<br>🌱 I’m currently learning MERN and focusing on front-end development.<br>📫 You can reach me at ishikajoshi1002@gmail.com
+🔭 I'm Ishika Joshi, pursuing an undergraduate degree at Acropolis Institute of Technology and Research and majoring in Computer Science Engineering with Information Technology.<br>🔭 I’m currently working on an On-demand home services web application project.<br>🌱 I'm in my final year currently and I have a strong academic record with 7.75 CGPA.<br>🌱 I’m currently learning MERN and focusing on front-end development.<br>📫 You can reach me at ishikajoshi1002@gmail.com
 
 
 ## 🌐 Socials:
